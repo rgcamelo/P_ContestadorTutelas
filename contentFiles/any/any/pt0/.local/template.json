@@ -1,0 +1,39 @@
+{
+  "DefaultProjectDescription": "Linea base del CoE Sura",
+  "DefaultProjectName": "LineaBaseCoE",
+  "Dependencies": {
+    "Sura.Utilities.AzureFiles": "[1.0.72545079]",
+    "UiPath.Excel.Activities": "[2.10.4]",
+    "UiPath.System.Activities": "[21.4.0]",
+    "UiPath.UIAutomation.Activities": "[21.4.3]"
+  },
+  "Description": "Linea base del CoE Sura",
+  "DisplayPriority": 0,
+  "ExceptionHandlerWorkflow": null,
+  "IconUri": "CustomProcessVBIcon",
+  "IsBlank": false,
+  "Label": "Process",
+  "MainFile": "L1_Main.xaml",
+  "EntryPoints": [
+    {
+      "FilePath": "L1_Main.xaml",
+      "UniqueId": "b77006c9-af7b-4859-a57c-9ed3e53cc189",
+      "Input": [],
+      "Output": []
+    }
+  ],
+  "EntitiesStores": [],
+  "Name": "LineaBaseCoE",
+  "NewTemplateTitle": null,
+  "PrivateFiles": [],
+  "OutputType": 0,
+  "ProjectProfile": 0,
+  "ExpressionLanguage": 0,
+  "TargetFramework": 0,
+  "SupportsPersistence": false,
+  "ModernBehavior": false,
+  "RequiresUserInteraction": true,
+  "IsLocalized": false,
+  "AutoDispose": false,
+  "FileInfoCollection": []
+}

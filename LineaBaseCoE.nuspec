@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata minClientVersion="3.3">
+    <id>LineaBaseCoE</id>
+    <version>1.0.5</version>
+    <title>LineaBaseCoE</title>
+    <authors>devuser</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Linea base del CoE Sura</description>
+    <tags>VisualBasic VB UiPathStudioProcess UiPathStudioTemplate</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1" />
+    </dependencies>
+    <contentFiles>
+      <files include="**/*.*" buildAction="None" />
+    </contentFiles>
+  </metadata>
+</package>

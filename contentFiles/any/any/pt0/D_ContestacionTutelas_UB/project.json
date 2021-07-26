@@ -1,0 +1,61 @@
+{
+  "name": "D_ContestacionTutelas",
+  "description": "",
+  "main": "L1_Main.xaml",
+  "dependencies": {
+    "Sura.Interactions.Mur": "[1.0.4]",
+    "Sura.Utilities.AzureFiles": "[1.0.72545079]",
+    "Sura.Utilities.Orquestador": "[1.0.6]",
+    "UiPath.Excel.Activities": "[2.10.4]",
+    "UiPath.Mail.Activities": "[1.11.0-preview]",
+    "UiPath.System.Activities": "[21.4.0]",
+    "UiPath.UIAutomation.Activities": "[21.4.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.3.0",
+  "projectVersion": "1.0.5",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "L1_Main.xaml",
+      "uniqueId": "b77006c9-af7b-4859-a57c-9ed3e53cc189",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": true,
+  "templateProjectData": {
+    "defaultProjectDescription": "Linea base del CoE Sura",
+    "defaultProjectName": "LineaBaseCoE"
+  },
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
